@@ -19,7 +19,7 @@ if newTip == 'y':
  #DRY
  print('The staff appreciates your tip. your new total is: $', total + newTip)
 elif newTip == 'n':
- print('We hope you enjoyed your eveing :)')
+ print('We hope you enjoyed your evening :)')
 else:
  newTip = float(input('would you like to add extra tip? enter y/n'))
  #DRY
