@@ -13,7 +13,7 @@ mealTax = mealBill * .07
 
 total = mealBill + mealTax + mealTip
 
-print('the tax at 7%  is:$',round(mealTax, 2))
+print('the tax at 7% is:$',round(mealTax, 2))
 
 print('the tip at 18% equaled :$',round(mealTip, 2))
 
