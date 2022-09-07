@@ -23,7 +23,8 @@ mpg = miles/gallons
 
 print('Your MPG is :',mpg)
 
-print('please enter two numbers')
+#neg or pos finder
+
 
 userNumb = float(input('please enter a number: '))
 
@@ -36,7 +37,9 @@ elif userNumb > 0:
 print('You entered: ', userNumb)
 
 
-#number size finder 
+#number size finder
+
+print('please enter two numbers')
 
 num1 = int(input('please enter the first number: '))
 
