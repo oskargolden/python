@@ -1,4 +1,4 @@
-keep_going = input("would you liek to start the task? If Yes Enter Y")
+keep_going = input("would you like to start the task? If Yes Enter Y")
 
 while keep_going == 'Y':
     sales = float(input('Enter the amount of sales: '))
